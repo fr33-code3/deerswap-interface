@@ -42068,7 +42068,7 @@
                             className: "sw-hero-action",
                             children: (0, c.jsx)(cc, {
                               text: "Trade now",
-                              link: "#",
+                              link: "https://deerswap.vercel.app/",
                               ref: o,
                             }),
                           }),
