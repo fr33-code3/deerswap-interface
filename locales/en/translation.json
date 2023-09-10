@@ -1,0 +1,125 @@
+{
+    "navbar": {
+        "navs": [
+            {
+                "name": "DeerSwap",
+                "link": "#"
+            },
+            {
+                "name": "Docs",
+                "link": "#"
+            },
+            {
+                "name": "DeerPad",
+                "link": "#"
+            },
+            {
+                "name": "DeerStake",
+                "link": "#"
+            }
+        ]
+    },
+    "hero": {
+        "header": "All in one Launchpad",
+        "text": "DeerSwap is a DEX dedicated to serving MeMe tokens. Featuring a brand new economy model and a unique Launchpad."
+    },
+    "advantage": {
+        "items": [
+            {
+                "title": "Users",
+                "caption": "0K+"
+            }
+        ]
+    },
+    "feature": {
+        "caption": "The Deer Ecosystem",
+        "header": "",
+        "items": [
+            {
+                "title": "DeerSwap",
+                "text": "Deer has the industry’s first Active DEX offering competitive swap fees, deflationary mechanics, next-generation staking and farming, a simple yet dynamic UI, and offers the highest levels of safety.",
+                "link": "#"
+            },
+            {
+                "title": "Deer Services",
+                "subtitle": "DeerSwap, Incubator, DeerPad, Partnerships",
+                "text": "Deer gets projects off to the right start and helps them succeed. Funding, expert advice, launch and liquidity products, co-development, co-marketing, and more are available through our Ecosystem.",
+                "link": "#"
+            },
+            {
+                "title": "Earn with Deer",
+                "subtitle": "Earn with new staking and farming solutions",
+                "text": "DeerStake makes DeFi easier and more rewarding. The smart staking protocol and compounding farms give the industry’s best fixed APYs. For projects listing on Swych, our pools encourage investors to invest more and stay longer.",
+                "link": "#"
+            },
+            {
+                "title": "DEER Token",
+                "text": "The DEER token is at the heart of the Deer ecosystem, employing smart functions and deflationary dynamics to provide holders with new levels of incentives and protection.",
+                "link": "#"
+            },
+            {
+                "title": "Learn more",
+                "text": "Learn more about how the revolutionary Deer ecosystem sets a new standard for a decentralized exchange.",
+                "link": "#"
+            }
+        ]
+    },
+    "brand": {
+        "header": "Partners & Integration"
+    },
+    "offer": {
+        "caption": "Your keys, your coins",
+        "header": "Own your crypto and maximize your investments with Deer."
+    },
+    "footer": {
+        "cols": [
+            {
+                "title": "About",
+                "navs": [
+                    {
+                        "title": "Contact",
+                        "link": "#"
+                    },
+                    {
+                        "title": "Community",
+                        "link": "https://discord.gg/"
+                    },
+                    {
+                        "title": "Whitepaper",
+                        "link": "#"
+                    }
+                ]
+            },
+            {
+                "title": "Help",
+                "navs": [
+                    {
+                        "title": "Whitepaper",
+                        "link": "#"
+                    },
+                    {
+                        "title": "FAQ",
+                        "link": "#"
+                    },
+                    {
+                        "title": "Troubleshooting",
+                        "link": "#"
+                    }
+                ]
+            }
+        ],
+        "copyright": "Copyright © Deer"
+    },
+    "social": {
+        "items": [
+            {
+                "name": "Twitter",
+                "link": "https://twitter.com/"
+            },
+            {
+                "name": "Discord",
+                "link": "https://discord.gg"
+            }
+        ]
+    }
+}
