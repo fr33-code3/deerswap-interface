@@ -42044,7 +42044,7 @@
                         className: "sw-hero-video",
                         children: (0, c.jsx)(vc, {
                           src: "/video/1.mp4",
-                          srcMobile: "/video/1_1.mp4",
+                          srcMobile: "/video/mobile.mp4",
                         }),
                       }),
                       (0, c.jsxs)("div", {
