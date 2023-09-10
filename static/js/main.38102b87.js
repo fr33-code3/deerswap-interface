@@ -41914,7 +41914,7 @@
                             className: "sw-navbar-action",
                             children: (0, c.jsx)(lc, {
                               text: "Open Dapp",
-                              link: "https://app.swych.finance",
+                              link: "https://deerswap.vercel.app/",
                             }),
                           }),
                           (0, c.jsx)("div", {
