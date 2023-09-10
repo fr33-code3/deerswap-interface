@@ -55049,7 +55049,7 @@
                         className: "sw-offer-video",
                         children: (0, c.jsx)(vc, {
                           src: "/video/2.mp4",
-                          srcMobile: "/video/2_1.mp4",
+                          srcMobile: "/video/mobile.mp4",
                         }),
                       }),
                       (0, c.jsxs)("div", {
