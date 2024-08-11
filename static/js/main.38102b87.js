@@ -41913,7 +41913,7 @@
                           (0, c.jsx)("div", {
                             className: "sw-navbar-action",
                             children: (0, c.jsx)(lc, {
-                              text: "Open Dapp",
+                              text: "Launch App",
                               link: "https://deerswap.vercel.app/",
                             }),
                           }),
